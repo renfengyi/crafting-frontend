@@ -1,0 +1,13 @@
+.layout-wrap{
+    height: 100vh;
+}
+.layout-header{
+    height: 45px;
+    line-height: 45px;
+    background-color: #001529;
+    -webkit-box-shadow:0 3px 16px  rgba(0,0,0,.1);
+}
+.layout-content{
+    /* padding: 20px; */
+    background-color: #001529;
+}
